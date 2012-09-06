@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a210b92-4ea9-497c-9311-36b9cf36961d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/circles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/about-me/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/ide/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/languages-n-technologies/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/os/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/practic/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/resources/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/task-management/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/team-coworking/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/vcs/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/click-story/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/files-search/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/motor-showroom-upgrade/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/programming-school/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/tools-n-methods/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/verbose/page.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/models/page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/tpls/nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/tpls/page-content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/views/nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/views/page-content.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/backbone-handyview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/backbone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/handlebars.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/less-1.3.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lodash.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/require-text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/require.min.js" />
-      <change type="DELETED" beforePath="Z:\home\shri\www\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="Z:\home\shri\www\js\vendor\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="Z:\home\shri\www\js\vendor\modernizr-2.6.1-respond-1.1.0.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,10 +24,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="32" selection-start="1438" selection-end="1445" vertical-scroll-proportion="0.5972397">
+            <state line="51" column="32" selection-start="1438" selection-end="1445" vertical-scroll-proportion="-18.307692">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="45" selection-start="56" selection-end="56" vertical-scroll-proportion="0.06196841">
               <folding />
             </state>
           </provider>
@@ -117,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/content/dev-exp/languages-n-technologies/page.json" />
         <option value="$PROJECT_DIR$/content/dev-exp/resources/page.json" />
         <option value="$PROJECT_DIR$/content/dev-exp/task-management/page.json" />
         <option value="$PROJECT_DIR$/content/dev-exp/team-coworking/page.json" />
@@ -133,6 +100,7 @@
         <option value="$PROJECT_DIR$/js/app/app.js" />
         <option value="$PROJECT_DIR$/js/app/router.js" />
         <option value="$PROJECT_DIR$/css/main.less" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -502,7 +470,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="32" selection-start="1438" selection-end="1445" vertical-scroll-proportion="0.5972397">
+        <state line="51" column="32" selection-start="1438" selection-end="1445" vertical-scroll-proportion="-18.307692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="45" selection-start="56" selection-end="56" vertical-scroll-proportion="0.06196841">
           <folding />
         </state>
       </provider>
