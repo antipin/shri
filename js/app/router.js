@@ -48,15 +48,19 @@ define(
                     success: function(model, response){
 
                         if (App.vPageContent !== undefined) {
-                            App.vPageContent.destroy();
+                            App.vPageContent.$el.fadeOut(200,function(){
+                                App.vPageContent.destroy();
+                            });
                         }
 
-                        App.vPageContent = new cls_vPageContent();
+                        setTimeout(function(){
+                            App.vPageContent = new cls_vPageContent();
 
-                        // Update page content
-                        $('article#content').html(
-                            App.vPageContent.render().el
-                        );
+                            // Update page content
+                            $('article#content').html(
+                                App.vPageContent.render().el
+                            );
+                        },500);
 
                         // Update page title
                         $('title').html(

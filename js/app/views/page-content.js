@@ -15,7 +15,7 @@ define(
             render:function () {
                 this.$el.html(
                     this.tpl(App.mPage.toJSON())
-                );
+                ).hide().fadeIn(500);
                 return this;
             }
 
