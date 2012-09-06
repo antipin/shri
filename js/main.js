@@ -22,5 +22,7 @@ require(
         $(function(){
             App = _.extend(app, App);
             App.initialize();
+
+            App.spikeDOM();
         });
     });

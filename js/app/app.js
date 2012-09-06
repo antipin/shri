@@ -138,6 +138,12 @@ define(
                 );
             },
 
+
+            spikeDOM: function() {
+                window.prettyPrint && prettyPrint();
+            },
+
+
             /**
              * Helper functions
              * TODO: maybe move them to some kind of library

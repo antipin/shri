@@ -60,12 +60,16 @@ define(
                             $('article#content').html(
                                 App.vPageContent.render().el
                             );
+
+                            App.spikeDOM();
                         },500);
 
                         // Update page title
                         $('title').html(
                             model.get('title') + App.settings.pageTitleDelimiter + App.settings.pageTitleSuffix
                         );
+
+
 
                     }
                 });
