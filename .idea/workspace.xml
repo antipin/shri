@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a210b92-4ea9-497c-9311-36b9cf36961d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/os/source.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/resources/source.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/task-management/source.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/team-coworking/source.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/vcs/source.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/dev-exp/ide/page.json" afterPath="$PROJECT_DIR$/content/dev-exp/ide/page.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/dev-exp/ide/source.html" afterPath="$PROJECT_DIR$/content/dev-exp/ide/source.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/router.js" afterPath="$PROJECT_DIR$/js/app/router.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/views/page-content.js" afterPath="$PROJECT_DIR$/js/app/views/page-content.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/dev-exp/os/page.json" afterPath="$PROJECT_DIR$/content/dev-exp/os/page.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/dev-exp/resources/page.json" afterPath="$PROJECT_DIR$/content/dev-exp/resources/page.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/dev-exp/task-management/page.json" afterPath="$PROJECT_DIR$/content/dev-exp/task-management/page.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/dev-exp/vcs/page.json" afterPath="$PROJECT_DIR$/content/dev-exp/vcs/page.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,82 +36,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="source.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/dev-exp/team-coworking/source.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="12" selection-start="1364" selection-end="1364" vertical-scroll-proportion="-12.423077">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/dev-exp/ide/page.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4101" selection-start="4133" selection-end="4133" vertical-scroll-proportion="0.041062802">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="source.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/dev-exp/ide/source.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="29" selection-start="0" selection-end="1541" vertical-scroll-proportion="-19.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/dev-exp/languages-n-technologies/page.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="29" selection-start="9755" selection-end="9755" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="source.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/dev-exp/languages-n-technologies/source.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="42" selection-start="0" selection-end="3413" vertical-scroll-proportion="-4.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="source.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/dev-exp/practice/source.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="6556" vertical-scroll-proportion="36.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/dev-exp/practice/page.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="19141" selection-start="19314" selection-end="19314" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-content.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app/views/page-content.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="16" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app/router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="38" selection-start="1794" selection-end="1794" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,31 +63,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/main.less" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/js/app/tpls/page-content.html" />
-        <option value="$PROJECT_DIR$/js/app/app.js" />
-        <option value="$PROJECT_DIR$/content/tech-tasks/programming-school/source.html" />
-        <option value="$PROJECT_DIR$/content/about-me/page.json" />
-        <option value="$PROJECT_DIR$/content/about-me/source.html" />
-        <option value="$PROJECT_DIR$/content/dev-exp/languages-n-technologies/source.html" />
-        <option value="$PROJECT_DIR$/content/dev-exp/languages-n-technologies/page.json" />
         <option value="$PROJECT_DIR$/content/dev-exp/practice/source.html" />
         <option value="$PROJECT_DIR$/content/dev-exp/practice/page.json" />
         <option value="$PROJECT_DIR$/js/app/views/page-content.js" />
         <option value="$PROJECT_DIR$/js/app/router.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/content/dev-exp/ide/source.html" />
         <option value="$PROJECT_DIR$/content/dev-exp/ide/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/os/source.html" />
+        <option value="$PROJECT_DIR$/content/dev-exp/os/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/vcs/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/vcs/source.html" />
+        <option value="$PROJECT_DIR$/content/dev-exp/task-management/source.html" />
+        <option value="$PROJECT_DIR$/content/dev-exp/task-management/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/resources/source.html" />
+        <option value="$PROJECT_DIR$/content/dev-exp/resources/page.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/content/dev-exp/team-coworking/source.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="width" value="840" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -240,96 +174,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHRI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHRI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tpls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHRI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHRI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHRI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -370,29 +214,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="languages-n-technologies" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHRI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dev-exp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ide" />
+              <option name="myItemId" value="team-coworking" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -428,10 +250,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="Z:\home\shri\www\content\dev-exp\vcs" />
+      <recent name="Z:\home\shri\www\content\dev-exp\os" />
       <recent name="Z:\home\shri\www\content\tech-tasks\verbose" />
       <recent name="Z:\home\shri\www\content\tech-tasks\tools-n-methods" />
       <recent name="Z:\home\shri\www\content\tech-tasks\programming-school" />
-      <recent name="Z:\home\shri\www\content\tech-tasks\motor-showroom-upgrade" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="Z:\home\shri\www\content\tech-tasks\programming-school" />
@@ -484,14 +306,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="0" y="0" width="840" height="1010" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17870256" sideWeight="0.6741176" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37532133" sideWeight="0.6741176" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
@@ -563,61 +385,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="135" selection-end="135" vertical-scroll-proportion="0.10131109" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg/circles.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app/tpls/page-content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="24" selection-end="24" vertical-scroll-proportion="0.04171779" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="52" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/tech-tasks/programming-school/source.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="86" selection-start="299" selection-end="299" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/about-me/source.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="35" selection-start="381" selection-end="381" vertical-scroll-proportion="0.259542">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/about-me/page.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="113" selection-end="113" vertical-scroll-proportion="0.04187192">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/dev-exp/practice/page.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19141" selection-start="19314" selection-end="19314" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app/views/page-content.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/app/router.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="38" selection-start="1794" selection-end="1794" vertical-scroll-proportion="0.0">
@@ -646,23 +413,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="12" selection-start="1364" selection-end="1364" vertical-scroll-proportion="-12.423077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/dev-exp/ide/source.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="29" selection-start="0" selection-end="1541" vertical-scroll-proportion="-19.576923">
+        <state line="2" column="6" selection-start="118" selection-end="118" vertical-scroll-proportion="0.04171779">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/dev-exp/ide/page.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4101" selection-start="4133" selection-end="4133" vertical-scroll-proportion="0.041062802">
+        <state line="2" column="463" selection-start="495" selection-end="495" vertical-scroll-proportion="0.041062802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/os/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="0.041062802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/os/source.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="50" selection-start="0" selection-end="571" vertical-scroll-proportion="0.08478803">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/vcs/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2131" selection-start="2172" selection-end="2172" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/vcs/source.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="161" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/task-management/source.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="97" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/task-management/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="982" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.04187192">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/resources/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2602" selection-start="2648" selection-end="2648" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/resources/source.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1518" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="12" selection-start="1364" selection-end="1364" vertical-scroll-proportion="0.06997456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/team-coworking/source.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
