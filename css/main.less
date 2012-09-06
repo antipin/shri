@@ -1,0 +1,88 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.box-rounded(@radius) {
+    -webkit-border-radius: @radius;
+    -moz-border-radius: @radius;
+    border-radius: @radius;
+}
+
+.box-shadowed(@radius, @opacity) {
+    -moz-box-shadow: 0 0 @radius rgba(0,0,0,@opacity);
+    -webkit-box-shadow: 0 0 @radius rgba(0,0,0,@opacity);
+    box-shadow: 0 0 @radius rgba(0,0,0,@opacity);
+}
+
+
+body {
+    background: url('/img/bg/circles.png') repeat 0 0;
+    padding: 30px 0;
+}
+
+
+#page-inner {
+    .box-rounded(6px);
+    .box-shadowed(5px, 0.2);
+    padding: 30px;
+    background-color: #FFF;
+}
+
+#logo a {
+    display: block;
+    width: 157px;
+    height: 69px;
+    background: url('/img/s.png') no-repeat 0 0;
+    text-indent: -9999px;
+    overflow: hidden;
+    margin-left: 50px;
+}
+
+/**
+ *  Navigation
+ */
+@navColorActiveBackground: #0088CC;
+@navColorActiveText: #FFF;
+
+#nav-primary ul {
+    margin: 18px 0;
+}
+
+#nav-primary ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+#nav-primary ul li a {
+    font-size: 22px;
+    padding: 10px 12px;
+}
+
+ul.nav li a {
+    .box-rounded(6px);
+}
+
+ul.nav li.active a {
+    background-color: @navColorActiveBackground;
+    color: @navColorActiveText;
+}
+
+
+
+/**
+ *  Content
+ */
+#layout-body {
+    padding: 30px 0;
+}
+
+article#content {}
+article#content h2 {
+    margin: 0 0 .7em 0;
+}
+
+
+
+
+
+

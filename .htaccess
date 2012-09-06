@@ -352,6 +352,13 @@ FileETag None
 # If you'd prefer to use option 2, just comment out all option 1 lines
 # and uncomment option 2.
 
+
+# HTML5 pushstate (history) support:
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} !index
+  RewriteRule (.*) index.html [L]
+
 # IMPORTANT: NEVER USE BOTH RULES AT THE SAME TIME!
 
 # ----------------------------------------------------------------------

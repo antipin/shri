@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a210b92-4ea9-497c-9311-36b9cf36961d" name="Default" comment="" />
+    <list default="true" id="6a210b92-4ea9-497c-9311-36b9cf36961d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/circles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/about-me/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/ide/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/languages-n-technologies/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/os/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/practic/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/resources/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/task-management/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/team-coworking/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dev-exp/vcs/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/click-story/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/files-search/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/motor-showroom-upgrade/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/programming-school/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/tools-n-methods/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/tech-tasks/verbose/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/models/page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/tpls/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/tpls/page-content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/views/nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/views/page-content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/backbone-handyview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/backbone.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/handlebars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/less-1.3.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lodash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/require-text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/require.min.js" />
+      <change type="DELETED" beforePath="Z:\home\shri\www\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\home\shri\www\js\vendor\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\home\shri\www\js\vendor\modernizr-2.6.1-respond-1.1.0.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+    </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,28 +65,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bootstrap-responsive.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap-responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="41" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="42" selection-start="3348" selection-end="3348" vertical-scroll-proportion="0.4064838">
+            <state line="51" column="32" selection-start="1438" selection-end="1445" vertical-scroll-proportion="0.5972397">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+      <file leaf-file-name="circles.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/bg/circles.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="155" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+            <state line="81" column="47" selection-start="3573" selection-end="3573" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="16" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,22 +106,41 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="LINE_SEPARATORS_CONVERSION" value="CONVERT" />
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/robots.txt" />
-        <option value="$PROJECT_DIR$/contrib/jquery/jquery-1.8.0.min.js" />
-        <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/content/dev-exp/languages-n-technologies/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/resources/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/task-management/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/team-coworking/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/vcs/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/practic/page.json" />
+        <option value="$PROJECT_DIR$/content/dev-exp/ide/page.json" />
+        <option value="$PROJECT_DIR$/content/tech-tasks/files-search/page.json" />
+        <option value="$PROJECT_DIR$/content/tech-tasks/motor-showroom-upgrade/page.json" />
+        <option value="$PROJECT_DIR$/content/tech-tasks/programming-school/page.json" />
+        <option value="$PROJECT_DIR$/content/tech-tasks/tools-n-methods/page.json" />
+        <option value="$PROJECT_DIR$/content/tech-tasks/verbose/page.json" />
+        <option value="$PROJECT_DIR$/content/tech-tasks/click-story/page.json" />
+        <option value="$PROJECT_DIR$/js/app/app.js" />
+        <option value="$PROJECT_DIR$/js/app/router.js" />
+        <option value="$PROJECT_DIR$/css/main.less" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="x" value="1" />
+    <option name="width" value="1678" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -89,14 +158,14 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -143,6 +212,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SHRI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SHRI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -153,29 +250,49 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="232" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="232" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="233" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="233" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="907" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="907" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="233" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="231" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.lookFeel" />
-    <property name="options.searchVisible" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="Z:\home\shri\www" />
-      <recent name="Z:\home\shri\www\contrib\bootstrap" />
+      <recent name="Z:\home\shri\www\content\dev-exp\vcs" />
+      <recent name="Z:\home\shri\www\content\tech-tasks\verbose" />
+      <recent name="Z:\home\shri\www\content\tech-tasks\tools-n-methods" />
+      <recent name="Z:\home\shri\www\content\tech-tasks\programming-school" />
+      <recent name="Z:\home\shri\www\content\tech-tasks\motor-showroom-upgrade" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\home\shri\www\js\vendor" />
       <recent name="Z:\home\shri\www\contrib\normalize" />
       <recent name="Z:\home\shri\www\custom\img" />
       <recent name="Z:\home\shri\www\custom" />
       <recent name="Z:\home\shri\www\contrib" />
-      <recent name="Z:\home\shri\www\contrib\modernizr" />
     </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -203,32 +320,39 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="6a210b92-4ea9-497c-9311-36b9cf36961d" name="Default" comment="" />
       <created>1346539680068</created>
       <updated>1346539680068</updated>
     </task>
+    <task id="LOCAL-00001" summary="Some minor changes">
+      <created>1346554744440</created>
+      <updated>1346554744440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="1" y="0" width="1678" height="1010" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32588235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21113831" sideWeight="0.6709007" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15903465" sideWeight="0.6741176" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -268,7 +392,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some minor changes" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -281,35 +405,104 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Some minor changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.htaccess">
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/ide/page.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="540" column="25" selection-start="19990" selection-end="19990" vertical-scroll-proportion="1.1819263">
+        <state line="2" column="12" selection-start="44" selection-end="44" vertical-scroll-proportion="0.041062802">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/practic/page.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="155" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="2" selection-end="2" vertical-scroll-proportion="0.020531401">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap-responsive.css">
+    <entry file="file://$PROJECT_DIR$/content/dev-exp/team-coworking/page.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="41" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
+        <state line="2" column="4" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tech-tasks/files-search/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="1" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tech-tasks/motor-showroom-upgrade/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tech-tasks/programming-school/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tech-tasks/tools-n-methods/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="99" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tech-tasks/verbose/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="274" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tech-tasks/click-story/page.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="56" selection-end="56" vertical-scroll-proportion="0.041062802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="47" selection-start="3573" selection-end="3573" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="16" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg/circles.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="19" selection-start="1369" selection-end="1369" vertical-scroll-proportion="1.5492102">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="42" selection-start="3348" selection-end="3348" vertical-scroll-proportion="0.4064838">
+        <state line="51" column="32" selection-start="1438" selection-end="1445" vertical-scroll-proportion="0.5972397">
           <folding />
         </state>
       </provider>
