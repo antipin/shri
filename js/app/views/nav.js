@@ -75,9 +75,15 @@ define(
 
                 this.processedItems = []
 
+                if (App.historyFragment == undefined) {
+                    App.Router.navigate("404", {trigger: true});
+                    return;
+                }
+
                 var items = this.getItemsSource();
 
                 if (items != null) {
+
                     _.each(items, function(value){
                         var classes = []
                         if (App.historyFragment.join('/').indexOf(value.url) === 0) classes.push('active');

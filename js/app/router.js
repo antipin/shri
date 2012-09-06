@@ -14,13 +14,22 @@ define(
 
 
             routes: {
-                "": "routeIndex"
+                "": "routeIndex",
+                "404": "route404"
             },
 
 
 
             routeIndex: function(){
                 this.navigate("about-me", {trigger: true});
+            },
+
+
+
+            route404: function() {
+                $('article#content').html(
+                    '<div class="alert alert-error">' + "Страница не найдена =(" + '</div>'
+                );
             },
 
 
