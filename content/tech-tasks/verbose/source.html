@@ -2,6 +2,22 @@
     Дана программа, реализованная одновременно на Bash, Python и Perl. Программа принимает произвольное количество аргументов и печатает их количество. Нужно добавить опцию -v для verbose-режима, в котором дополнительно выводится значение каждого из аргументов.
 </div>
 
-<div class="alert alert-error">
-    <strong>В разработке</strong>
-</div>
+<pre class="prettyprint linenums">
+#!/usr/bin/env python
+
+import argparse
+
+parser = argparse.ArgumentParser(description='Print the number of arguments.')
+parser.add_argument('arguments', metavar='ARG', type=str, nargs='*', help='some arguments')
+parser.add_argument('-m', dest='message', default='', help='custom message')
+parser.add_argument('-v', dest='verbose', action='store_true', help='verbose mode')
+
+args = parser.parse_args()
+
+print 'Arguments count: ' + str(len(args.arguments))
+if args.verbose:
+    print 'Arguments list: ' + ', '.join([arg for arg in args.arguments])
+
+if args.message != '':
+    print(args.message)
+</pre>
