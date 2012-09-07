@@ -27,7 +27,7 @@ define(
 
 
             route404: function() {
-                $('article#content').html(
+                $('article#content-wrapper').html(
                     '<div class="alert alert-error">' + "Страница не найдена =(" + '</div>'
                 );
             },
@@ -56,30 +56,21 @@ define(
                 App.mPage.fetch({
                     success: function(model, response){
 
-                        if (App.vPageContent !== undefined) {
-                            App.vPageContent.$el.fadeOut(200,function(){
-                                App.vPageContent.destroy();
-                            });
+                        if (App.vPageContent == undefined) {
+                            // Create pageContent view
+                            App.vPageContent = new cls_vPageContent();
+                            // And insert it to DOM
+                            $('article#content').html(App.vPageContent.el);
                         }
 
-                        setTimeout(function(){
-                            App.vPageContent = new cls_vPageContent();
-
-                            // Update page content
-                            $('article#content').html(
-                                App.vPageContent.render().el
-                            );
-
-                            App.spikeDOM();
-                        },500);
+                        App.vPageContent.updateContent(
+                            App.mPage.toJSON()
+                        );
 
                         // Update page title
                         $('title').html(
                             model.get('title') + App.settings.pageTitleDelimiter + App.settings.pageTitleSuffix
                         );
-
-
-
                     }
                 });
 

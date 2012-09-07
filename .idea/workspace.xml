@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a210b92-4ea9-497c-9311-36b9cf36961d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/tech-tasks/verbose/page.json" afterPath="$PROJECT_DIR$/content/tech-tasks/verbose/page.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/tech-tasks/verbose/source.html" afterPath="$PROJECT_DIR$/content/tech-tasks/verbose/source.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/app.js" afterPath="$PROJECT_DIR$/js/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.less" afterPath="$PROJECT_DIR$/css/main.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/router.js" afterPath="$PROJECT_DIR$/js/app/router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/views/page-content.js" afterPath="$PROJECT_DIR$/js/app/views/page-content.js" />
     </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,82 +27,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/tech-tasks/files-search/page.json">
+      <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="14" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+            <state line="67" column="26" selection-start="2143" selection-end="2143" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="source.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/tech-tasks/files-search/source.html">
+      <file leaf-file-name="main.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="9" selection-start="207" selection-end="207" vertical-scroll-proportion="-1.9615384">
+            <state line="108" column="1" selection-start="3160" selection-end="3160" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="page-content.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app/views/page-content.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="6" selection-start="1000" selection-end="1000" vertical-scroll-proportion="-6.5384617">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="source.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/tech-tasks/programming-school/source.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="137" selection-start="0" selection-end="2586" vertical-scroll-proportion="-11.769231">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/tech-tasks/programming-school/page.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="10410" selection-start="10468" selection-end="10468" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="52" selection-start="5128" selection-end="5128" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="source.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/tech-tasks/verbose/source.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="302" selection-end="336" vertical-scroll-proportion="-2.6153846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="source.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/tech-tasks/motor-showroom-upgrade/source.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="211" selection-end="245" vertical-scroll-proportion="-2.6153846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/tech-tasks/verbose/page.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="1356" selection-start="2001" selection-end="2001" vertical-scroll-proportion="0.061594203">
+            <state line="18" column="94" selection-start="413" selection-end="413" vertical-scroll-proportion="0.36385256">
               <folding />
             </state>
           </provider>
@@ -125,10 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/content/tech-tasks/click-story/source.html" />
-        <option value="$PROJECT_DIR$/content/tech-tasks/click-story/page.json" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/css/vendor/bootstrap-responsive.css" />
         <option value="$PROJECT_DIR$/css/responsive.less" />
         <option value="$PROJECT_DIR$/css/vendor/prettify.bootstrap.css" />
         <option value="$PROJECT_DIR$/content/tech-tasks/tools-n-methods/source.html" />
@@ -141,6 +84,10 @@
         <option value="$PROJECT_DIR$/js/app/app.js" />
         <option value="$PROJECT_DIR$/content/tech-tasks/verbose/source.html" />
         <option value="$PROJECT_DIR$/content/tech-tasks/verbose/page.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/css/main.less" />
+        <option value="$PROJECT_DIR$/js/app/router.js" />
+        <option value="$PROJECT_DIR$/js/app/views/page-content.js" />
       </list>
     </option>
   </component>
@@ -256,33 +203,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tech-tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHRI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tech-tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="verbose" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,29 +225,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tech-tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motor-showroom-upgrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHRI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -340,16 +247,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="233" />
-    <property name="DefaultHtmlFileTemplate" value="Html" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="907" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="907" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="907" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="233" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="231" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -416,8 +323,9 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3256351" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17870256" sideWeight="0.6741176" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18115056" sideWeight="0.6743649" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
@@ -426,7 +334,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32588235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -489,107 +396,76 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="28" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/tech-tasks/click-story/source.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="46" selection-start="0" selection-end="1495" vertical-scroll-proportion="0.36034912">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/vendor/bootstrap-responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="801" column="0" selection-start="15461" selection-end="15496" vertical-scroll-proportion="-11.56">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/responsive.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="32" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/vendor/prettify.bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/tech-tasks/tools-n-methods/source.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="84" selection-start="799" selection-end="799" vertical-scroll-proportion="-22.884615">
-          <folding />
-        </state>
+        <state line="35" column="84" selection-start="799" selection-end="799" vertical-scroll-proportion="-22.884615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/tech-tasks/tools-n-methods/page.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="19" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/tech-tasks/files-search/page.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="14" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/tech-tasks/files-search/source.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="9" selection-start="207" selection-end="207" vertical-scroll-proportion="-1.9615384">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="1000" selection-end="1000" vertical-scroll-proportion="-6.5384617">
+        <state line="3" column="9" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/tech-tasks/programming-school/source.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="137" selection-start="0" selection-end="2586" vertical-scroll-proportion="-11.769231">
+        <state line="18" column="137" selection-start="0" selection-end="2586" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/tech-tasks/programming-school/page.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10410" selection-start="10468" selection-end="10468" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="10410" selection-start="10468" selection-end="10468" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="52" selection-start="5128" selection-end="5128" vertical-scroll-proportion="0.0">
+        <state line="100" column="52" selection-start="5128" selection-end="5128" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/tech-tasks/verbose/source.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="302" selection-end="336" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/tech-tasks/motor-showroom-upgrade/source.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="211" selection-end="245" vertical-scroll-proportion="-2.6153846">
+        <state line="4" column="0" selection-start="211" selection-end="245" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/tech-tasks/verbose/source.html">
+    <entry file="file://$PROJECT_DIR$/js/app/tpls/page-content.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="302" selection-end="336" vertical-scroll-proportion="-2.6153846">
+        <state line="6" column="34" selection-start="80" selection-end="80" vertical-scroll-proportion="0.12515338">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="1000" selection-end="1000" vertical-scroll-proportion="7.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="64" selection-start="110" selection-end="110" vertical-scroll-proportion="0.12128419">
           <folding />
         </state>
       </provider>
@@ -597,6 +473,27 @@
     <entry file="file://$PROJECT_DIR$/content/tech-tasks/verbose/page.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="1356" selection-start="2001" selection-end="2001" vertical-scroll-proportion="0.061594203">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="1" selection-start="3160" selection-end="3160" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="26" selection-start="2143" selection-end="2143" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/views/page-content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="94" selection-start="413" selection-end="413" vertical-scroll-proportion="0.36385256">
           <folding />
         </state>
       </provider>

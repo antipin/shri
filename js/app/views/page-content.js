@@ -6,6 +6,8 @@ define(
 
             tagName: 'div',
 
+            id: 'content-page',
+
             tpl: '',
 
             initialize:function () {
@@ -13,9 +15,21 @@ define(
             },
 
             render:function () {
-                this.$el.html(
-                    this.tpl(App.mPage.toJSON())
-                ).hide().fadeIn(500);
+                this.$el.html(this.tpl());
+            },
+
+
+            updateContent: function(data) {
+
+                var self = this;
+
+                this.$el.fadeOut(500, function(){
+                    self.$el
+                        .html(self.tpl(data))
+                        .fadeIn();
+                    App.spikeDOM();
+                })
+
                 return this;
             }
 
