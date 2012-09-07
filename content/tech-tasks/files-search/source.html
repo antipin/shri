@@ -1,7 +1,14 @@
 <div class="alert alert-block">
-    Найдите все текстовые файлы (*.txt), в имени которых содержится «yandex», а в содержимом — «школа разработки интерфейсов».
+    Найдите все текстовые файлы (*.txt), в имени которых содержится «yandex», а в содержимом — «школа фронтенд-разработки». (предполагается работа с командной строкой)
 </div>
 
-<div class="alert alert-error">
-    <strong>В разработке</strong>
-</div>
+<h3>Windows CMD</h3>
+<pre class="prettyprint">
+    findstr /s /m "школа фронтенд-разработки" *yandex*.txt
+</pre>
+
+
+<h3>Bash</h3>
+<pre class="prettyprint">
+    grep --files-with-matches --with-filename --recursive "школа фронтенд-разработки" / *yandex*.txt
+</pre>
